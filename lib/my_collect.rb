@@ -3,6 +3,6 @@ def my_collect(array)
   while(i < array.length)
   i = i + 1
   end 
-  my_collect(array) do |lang
+ array
   
 end 
